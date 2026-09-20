@@ -28,4 +28,5 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+https://www.linkedin.com/in/vyshnavi-reddy-28715a414?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
